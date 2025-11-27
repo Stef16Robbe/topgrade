@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [16.5.1](https://github.com/Stef16Robbe/topgrade/compare/v16.5.0...v16.5.1) - 2025-11-27
+
+### Other
+
+- *(deps)* update http, tower-http, tracing, zerocopy ([#1567](https://github.com/Stef16Robbe/topgrade/pull/1567))
+- *(deps)* update swatinem/rust-cache action to v2.8.2 ([#1562](https://github.com/Stef16Robbe/topgrade/pull/1562))
+- switch release_to_pypi.yml to trusted publishing ([#1566](https://github.com/Stef16Robbe/topgrade/pull/1566))
+- README.md fixes ([#1564](https://github.com/Stef16Robbe/topgrade/pull/1564))
+
 ## [16.5.0](https://github.com/topgrade-rs/topgrade/compare/v16.4.2...v16.5.0) - 2025-11-26
 
 ### Added
